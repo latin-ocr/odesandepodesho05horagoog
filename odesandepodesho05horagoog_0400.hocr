@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./odesandepodesho05horagoog_0400.png"; bbox 0 0 3412 5114; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 651 633 1053 722">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 651 633 1053 722">
+     <span class='ocr_line' id='line_1_1' title="bbox 651 633 1053 722; baseline -0.012 -9"><span class='ocrx_word' id='word_1_1' title='bbox 651 636 757 713; x_wconf 79' lang='lat' dir='ltr'><em>Book</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 773 633 982 722; x_wconf 64' lang='lat' dir='ltr'><em>lK—Ode</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 996 633 1053 708; x_wconf 85' lang='grc' dir='ltr'>ΙΙ.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 577 814 1117 1099">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 577 814 1117 1099">
+     <span class='ocr_line' id='line_1_2' title="bbox 577 814 1093 908; baseline -0.017 -25"><span class='ocrx_word' id='word_1_4' title='bbox 577 823 690 908; x_wconf 69' lang='lat' dir='ltr'><strong>Frontq</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 698 820 844 880; x_wconf 79' lang='lat' dir='ltr'>&#39;curvatos</span> <span class='ocrx_word' id='word_1_6' title='bbox 858 814 993 876; x_wconf 89' lang='lat' dir='ltr'>imitatus</span> <span class='ocrx_word' id='word_1_7' title='bbox 1007 814 1093 893; x_wconf 84' lang='lat' dir='ltr'>ignes</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 577 906 1117 987; baseline -0.02 -5"><span class='ocrx_word' id='word_1_8' title='bbox 577 919 715 982; x_wconf 83' lang='lat' dir='ltr'>Tertium</span> <span class='ocrx_word' id='word_1_9' title='bbox 729 918 825 977; x_wconf 88' lang='lat' dir='ltr'>Lunae</span> <span class='ocrx_word' id='word_1_10' title='bbox 840 906 998 976; x_wconf 65' lang='lat' dir='ltr'>referentis</span> <span class='ocrx_word' id='word_1_11' title='bbox 1009 923 1117 987; x_wconf 82' lang='lat' dir='ltr'>ortum,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 578 1011 1112 1099; baseline -0.021 -17"><span class='ocrx_word' id='word_1_12' title='bbox 578 1021 649 1099; x_wconf 82' lang='lat' dir='ltr'>Qua</span> <span class='ocrx_word' id='word_1_13' title='bbox 663 1031 767 1083; x_wconf 88' lang='lat' dir='ltr'>notam</span> <span class='ocrx_word' id='word_1_14' title='bbox 781 1016 876 1092; x_wconf 83' lang='lat' dir='ltr'>duxit,</span> <span class='ocrx_word' id='word_1_15' title='bbox 887 1016 994 1078; x_wconf 86' lang='lat' dir='ltr'>niveus</span> <span class='ocrx_word' id='word_1_16' title='bbox 1007 1011 1112 1087; x_wconf 84' lang='lat' dir='ltr'>videri,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 700 1114 954 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 700 1114 954 1184">
+     <span class='ocr_line' id='line_1_5' title="bbox 700 1114 954 1184; baseline -0.028 1"><span class='ocrx_word' id='word_1_17' title='bbox 700 1123 811 1184; x_wconf 80' lang='lat' dir='ltr'>Cetera</span> <span class='ocrx_word' id='word_1_18' title='bbox 824 1114 954 1181; x_wconf 50' lang='lat' dir='ltr'>fulvus!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1710 5114">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1710 5114">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1710 5114; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 1710 5114; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
